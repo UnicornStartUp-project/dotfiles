@@ -1,0 +1,1 @@
+/Users/open-claw/.openclaw/workspace/CLAUDE.md
